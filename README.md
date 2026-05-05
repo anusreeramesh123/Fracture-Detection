@@ -38,8 +38,7 @@ The trained model is integrated into a **Flask web application**, enabling real-
 |--------------------|--------------------------------|
 | 🧠 Deep Learning   | TensorFlow, Keras              |
 | 🌐 Web Framework   | Flask                          |
-| 🖼 Image Handling  | Pillow, NumPy                  |
-| 🤖 AI Assistance   | Claude AI                      |
+| 🖼 Image Handling  | Pillow, NumPy                  |                    |
 | 💻 Language        | Python                         |
 
 ---
