@@ -56,4 +56,3 @@ The trained model is integrated into a **Flask web application**, enabling real-
 
 ---
 
-## 📂 Project Structure
